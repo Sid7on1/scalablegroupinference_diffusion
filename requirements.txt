@@ -1,0 +1,37 @@
+# requirements.txt
+
+# Core scientific computing and data manipulation
+numpy==1.23.3
+scipy==1.11.0
+pandas==1.5.2
+
+# Core ML and CV libraries
+torch==1.13.1
+torchvision==0.12.0
+transformers==4.24.0
+diffusers==0.4.0
+gurobipy==9.5.0
+opencv-python==4.7.0
+pillow==9.4.0
+
+# Progress bars and metrics
+tqdm==4.64.0
+
+# Plotting and visualization
+matplotlib==3.6.0
+seaborn==0.11.2
+
+# Data and tensor manipulation
+einops==0.6.0
+
+# Acceleration and performance
+accelerate==0.6.2
+
+# Test and build tools
+pytest==7.1.2
+flake8==4.0.1
+mypy==0.982
+
+# Please ensure that all dependencies are compatible and up-to-date for your specific use case.
+# You may need to adjust versions or add additional packages based on your project's requirements.
+# This file is intended to be a starting point for your project's dependencies.
