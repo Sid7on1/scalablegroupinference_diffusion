@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for scoring_functions.py after 3 attempts",
+  "details": {},
+  "timestamp": "2025-08-22T20:51:11.776128"
+}
