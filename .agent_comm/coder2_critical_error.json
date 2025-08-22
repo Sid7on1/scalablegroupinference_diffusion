@@ -1,0 +1,8 @@
+{
+  "from": "coder2",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to save configs/scoring_config.yaml: [Errno 2] No such file or directory: 'artifacts/projects/ScalableGroupInference_Diffusion/configs/scoring_config.yaml'",
+  "details": {},
+  "timestamp": "2025-08-22T20:52:59.014118"
+}
